@@ -1,6 +1,6 @@
 # Papers
 - [Papers](#papers)
-  - [Mutation Testing](## Mutation Testing)
+  - [Mutation Testing](##Mutation Testing)
   - [Coverage-Guided Testing](# coverage-guided-testing)
 ## Mutation Testing
 ### [**ICSE 2021**] [RobOT: Robustness-Oriented Testing for Deep Learning Systems.](https://arxiv.org/pdf/2102.05913.pdf)([*Open Source*](https://github.com/SmallkeyChen/RobOT))
