@@ -3,7 +3,7 @@
 - [Coverage-Guided Testing](#Coverage-Guided-Testing)
 - [Model Based Testing](#Model-Based-Testing)
 ## Mutation Testing
-### [**ICSE 2021**] [RobOT: Robustness-Oriented Testing for Deep Learning Systems.](https://arxiv.org/pdf/2102.05913.pdf)([*Open Source*](https://github.com/SmallkeyChen/RobOT))
+### [**ICSE 2021**] [RobOT: Robustness-Oriented Testing for Deep Learning Systems.](https://arxiv.org/pdf/2102.05913.pdf)
 > DL (re)training is integrated with testing and two robustness testing metrics, FOL and ZOL, are proposed.
 
 ### [**ISSTA 2021**] [DeepCrime: mutation testing of deep learning systems based on real faults.](https://dl.acm.org/doi/10.1145/3460319.3464825)
@@ -64,5 +64,5 @@
 
 
 ## Model Based Testing
-###  [**FSE 2020**] [Model-based exploration of the frontier of behaviours for deep learning system testing.]([file:///Users/lxx/Desktop/DeepJanus.pdf](https://dl.acm.org/doi/pdf/10.1145/3368089.3409730?casa_token=WXdcH1L2TTcAAAAA:cV_o25QtKW01Q85_U7ZGnlDjvhOzZwdVcL06rz9TfQ-dmZ4LAC7_x6YDR8A8sGf6IEQ3CdyDLHf7x5A))
+###  [**FSE 2020**] [Model-based exploration of the frontier of behaviours for deep learning system testing.](https://dl.acm.org/doi/pdf/10.1145/3368089.3409730?casa_token=WXdcH1L2TTcAAAAA:cV_o25QtKW01Q85_U7ZGnlDjvhOzZwdVcL06rz9TfQ-dmZ4LAC7_x6YDR8A8sGf6IEQ3CdyDLHf7x5A))
 > The paper introduces the notion of frontier of behaviours and developed DeepJanus, a search-based tool that generates frontier inputs for DL systems.
