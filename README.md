@@ -10,16 +10,16 @@ A curated list of awesome publications and researchers on AI testing.
     + [Model Based Testing](##Model-Based-Testing)
   * [License](#License)
 ## Researchers
-| China |  |  |
+| **China** |  |  |
 |:-----|:----|:----|
 | [Jingyi Wang](https://person.zju.edu.cn/wangjyee), ZJU | [Wensheng Dou](http://people.ucas.ac.cn/~wsdou), UCAS | [Yu Jiang](https://sites.google.com/site/jiangyu198964/home), Tsinghua University|
-|  Singapore |  |  |
+|  **Singapore** |  |  |
 | [Yang Liu](https://personal.ntu.edu.sg/yangliu/), NTU|[Guo Qing](https://tsingqguo.github.io), NTU |  |
-| USA |  |  |
+| **USA** |  |  |
 | [Kexin Pei](https://sites.google.com/site/kexinpeisite/), Columbia University| [Felix Juefei Xu](http://xujuefei.com/), CMU|  |
-| UK |  |  |
+| **UK** |  |  |
 | [Youcheng Sun](https://sites.google.com/site/theyoucheng/), QUB|  |  | 
-| Canada |  |  |
+| **Canada** |  |  |
 | [Lei Ma](https://malei.xyz), UA|  |  |
 
 ## Conferences
@@ -85,8 +85,6 @@ A curated list of awesome publications and researchers on AI testing.
 
 ####  [**SOSP 2017**] [DeepXplore: Automated Whitebox Testing of Deep Learning Systems.](https://arxiv.org/pdf/1705.06640.pdf)
 ([*Open Source*](https://github.com/peikexin9/deepxplore))
- 
-
 
 ### Model Based Testing
 ####  [**FSE 2020**] [Model-based exploration of the frontier of behaviours for deep learning system testing.](https://dl.acm.org/doi/pdf/10.1145/3368089.3409730?casa_token=GrLj6n_mt10AAAAA:u9FoFIy6FWSazxZsXJ1Glo6NItges6EnTIiVjTQ9_EVathiikDbpBHaP0_BTeEyaaCP-ZxDqtBRn8iE)
