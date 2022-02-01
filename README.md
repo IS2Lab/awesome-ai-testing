@@ -12,7 +12,7 @@ A curated list of awesome publications and researchers on AI testing.
 ## Researchers
 | China |  |  |
 |:-----|:----|:----|
-| [Jingyi Wang](https://person.zju.edu.cn/wangjyee), ZJU | [Wensheng Dou](http://people.ucas.ac.cn/~wsdou), UCAS] | [Yu Jiang](https://sites.google.com/site/jiangyu198964/home), Tsinghua University|
+| [Jingyi Wang](https://person.zju.edu.cn/wangjyee), ZJU | [Wensheng Dou](http://people.ucas.ac.cn/~wsdou), UCAS | [Yu Jiang](https://sites.google.com/site/jiangyu198964/home), Tsinghua University|
 |  Singapore |  |  |
 | [Yang Liu](https://personal.ntu.edu.sg/yangliu/), NTU|[Guo Qing](https://tsingqguo.github.io), NTU |  |
 | USA |  |  |
@@ -24,9 +24,9 @@ A curated list of awesome publications and researchers on AI testing.
 
 ## Conferences
 - Software Engineering
-  * [ICSE](http://www.icse-conferences.org/)|[FSE](https://conf.researchr.org/series/fse)|[ASE](https://www.aseglobal.com/)|[ISSTA](https://dl.acm.org/conference/issta)
+  * [ICSE](http://www.icse-conferences.org/) **|**  [FSE](https://conf.researchr.org/series/fse) **|** [ASE](https://www.aseglobal.com/) **|** [ISSTA](https://dl.acm.org/conference/issta)
 - Information Security
-  * [USENIX](https://www.usenix.org/)|[S&P](https://www.ieee-security.org/TC/SP2022/)|[CSS](https://css2022.xidian.edu.cn/)|[NDSS](https://www.ndss-symposium.org/)
+  * [USENIX](https://www.usenix.org/) **|** [S&P](https://www.ieee-security.org/TC/SP2022/) **|** [CSS](https://css2022.xidian.edu.cn/) **|** [NDSS](https://www.ndss-symposium.org/)
 ## Papers
 ### Mutation Testing
 #### [**ICSE 2021**] [RobOT: Robustness-Oriented Testing for Deep Learning Systems.](https://arxiv.org/pdf/2102.05913.pdf)
