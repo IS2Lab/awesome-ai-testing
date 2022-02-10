@@ -12,7 +12,7 @@ A curated list of awesome publications and researchers on AI testing.
 ## Researchers
 | **China** |  |  |
 |:-----|:----|:----|
-| | [Zhenyu Chen](http://www.iselab.cn/html/people/faculty/ZhenyuChen.html), Nanjing University |[Xiaoxing Ma](https://cs.nju.edu.cn/ics/people/xiaoxingma/index.html), Nanjing University | [Yu Jiang](https://sites.google.com/site/jiangyu198964/home), Tsinghua University| [Lijun Zhang](https://iscasmc.ios.ac.cn/iscasmcwp/?page_id=148), CAS | [Jingyi Wang](https://person.zju.edu.cn/wangjyee), ZJU | [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/)|  |
+| [Zhenyu Chen](http://www.iselab.cn/html/people/faculty/ZhenyuChen.html), Nanjing University |[Xiaoxing Ma](https://cs.nju.edu.cn/ics/people/xiaoxingma/index.html), Nanjing University | [Yu Jiang](https://sites.google.com/site/jiangyu198964/home), Tsinghua University| [Lijun Zhang](https://iscasmc.ios.ac.cn/iscasmcwp/?page_id=148), CAS | [Jingyi Wang](https://person.zju.edu.cn/wangjyee), ZJU | [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/)|  |
 |  **Singapore** |  |  |
 | [Yang Liu](https://personal.ntu.edu.sg/yangliu/), NTU|[Jun Sun](sunjun.site), SMU |  |
 | **USA** |  |  |
