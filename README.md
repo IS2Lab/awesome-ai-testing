@@ -1,5 +1,6 @@
 # awesome-ai-testing
 A curated list of awesome publications and researchers on AI testing.
+A brief description of the content of each article is available in paper.md
 - Awesome AI Testing
   * [Researchers](#Researchers)
   * [Conferences](#Conferences)
