@@ -1,15 +1,16 @@
 # awesome-ai-testing
-A curated list of awesome publications and researchers on AI testing.
+🌈  A curated list of awesome publications and researchers on AI testing.
 See more in [paper.md](https://github.com/IS2Lab/awesome-ai-testing/blob/main/papers.md)
 - Awesome AI Testing
-  * [Researchers](#Researchers)
-  * [Conferences](#Conferences)
-  * [Datasets](#Datasets)
-  * [Papers](#Papers)
-    + [Mutation Testing](#Mutation-Testing)
+  * 🌟 [Researchers](#Researchers)
+  * 🌟 [Conferences](#Conferences)
+  * 🌟 [Papers](#Papers)
     + [Coverage-Guided Testing](#Coverage-Guided-Testing)
+    + [Test Suites Based Methods](#Test-cases-based-methods) 
+    + [Neuron Sensitivity Based Testing](#Neuron-Sensitivity-Based-Testing) 
+    + [Mutation Testing](#Mutation-Testing)
     + [Model Based Testing](##Model-Based-Testing)
-  * [License](#License)
+  * 🌟 [License](#License)
 ## Researchers
 | **China** |  |  |
 |:-----|:----|:----|
@@ -29,22 +30,19 @@ See more in [paper.md](https://github.com/IS2Lab/awesome-ai-testing/blob/main/pa
 - Information Security
   * [USENIX](https://www.usenix.org/) **|** [S&P](https://www.ieee-security.org/TC/SP2022/) **|** [CSS](https://css2022.xidian.edu.cn/) **|** [NDSS](https://www.ndss-symposium.org/)
 ## Papers
-### Mutation Testing
-#### [**ICSE 2021**] [RobOT: Robustness-Oriented Testing for Deep Learning Systems.](https://arxiv.org/pdf/2102.05913.pdf)
+### 💫 Survey
+#### [**ISSTA 2022**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
 
-#### [**ISSTA 2021**] [DeepCrime: mutation testing of deep learning systems based on real faults.](https://dl.acm.org/doi/10.1145/3460319.3464825)
+### 💫 Evaluation of testing methods
+**Limitations of Coverage-Guided Testing**
+#### [**FSE 2020**] [Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks?](https://dl.acm.org/doi/pdf/10.1145/3368089.3409754)
 
+#### [**ICSE 2019**] [Structural Coverage Criteria for Neural Networks Could Be Misleading.](https://ieeexplore.ieee.org/document/8805667)
 
-#### [**ASE 2021**] [DeepMetis: Augmenting a Deep Learning Test Set to Increase its Mutation Score.](https://arxiv.org/abs/2109.07514)
-
-
-#### [**ASE 2019**] [DeepMutation++: A Mutation Testing Framework for Deep Learning Systems. ](https://dl.acm.org/doi/pdf/10.1109/ASE.2019.00126)
-
-
-#### [**ISSRE 2018**] [DeepMutation: Mutation Testing of Deep Learning Systems.](https://arxiv.org/pdf/1805.05206.pdf)
+#### [**CORR 2019**] [There is Limited Correlation between Coverage and Robustness for Deep Neural Networks.](https://arxiv.org/pdf/1911.05904.pdf)
 
 
-### Coverage-Guided Testing
+### 💫 Coverage-Guided Testing
 #### [**SANER 2021**] [DeepCon: Contribution Coverage Testing for Deep Learning Systems.](https://www.researchgate.net/publication351501735_DeepCon_Contribution_Coverage_Testing_for_Deep_Learning_Systems)
 
 
@@ -57,8 +55,11 @@ See more in [paper.md](https://github.com/IS2Lab/awesome-ai-testing/blob/main/pa
 #### [**ICSE 2020**] [Uncertainty-guided testing and robustness enhancement for deep learning systems. ](https://dl.acm.org/doi/pdf/10.1145/3377812.3382160?casa_token=aZMrhNOESSgAAAAA:-Ns-ulCiF_e8SCENNcvXRySgafCemKlX87A0_zbwEN7ag8UoFJ0OoyKTL5T3_47Lqw2J6CW17bE7_hw)
 
 
-#### [**ICSE 2019**] [Guiding deep learning system testing using surprise adequacy. ](https://arxiv.org/pdf/1808.08444.pdf)
+#### [**ICSE 2019**] [Guiding deep learning system testing using surprise adequacy.](https://arxiv.org/pdf/1808.08444.pdf)
 
+#### [**ICSE 2019**] [DeepConcolic: Testing and Debugging Deep Neural Networks.](https://ieeexplore.ieee.org/abstract/document/8802786)
+
+#### [**ICSE 2019**] [Towards improved testing for deep learning.](https://arxiv.org/pdf/1902.06320.pdf)
 
 #### [**ISSTA 2019**] [DeepHunter: a coverage-guided fuzz testing framework for deep neural networks. ](https://experts.illinois.edu/en/publications/deephunter-a-coverage-guided-fuzz-testing-framework-for-deep-neur)
 
@@ -85,10 +86,51 @@ See more in [paper.md](https://github.com/IS2Lab/awesome-ai-testing/blob/main/pa
 
 
 #### [**SOSP 2017**] [DeepXplore: Automated Whitebox Testing of Deep Learning Systems.](https://arxiv.org/pdf/1705.06640.pdf)
-([*Open Source*](https://github.com/peikexin9/deepxplore))
 
-### Model Based Testing
+### 💫 Test suites based methods
+
+#### [**ICSE 2021**] [RobOT: Robustness-Oriented Testing for Deep Learning Systems.](https://arxiv.org/pdf/2102.05913.pdf)
+
+#### [**ICSE 2020**] [White-box fairness testing through adversarial sampling.](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=5635&context=sis_research)
+
+#### [**ISSTA 2020**] [DeepGini: Prioritizing Massive Tests to Enhance the Robustness of Deep Neural Networks.](https://arxiv.org/pdf/1903.00661.pdf)
+
+#### [**ICSE 2020**] [Fuzz Testing Based Data Augmentation to Improve Robustness of Deep Neural Networks.](hhttps://dl.acm.org/doi/10.1145/3377811.3380415)
+
+#### [**ASE 2018**] [Automated directed fairness testing.](https://arxiv.org/pdf/1807.00468.pdf)
+
+#### [**ASE 2018**] [DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems.](https://dl.acm.org/doi/10.1145/3238147.3238187)
+
+#### [**FSE 2017**] [Fairness Testing: Testing Software for Discrimination ](https://dl.acm.org/doi/pdf/10.1145/3106237.3106277)
+
+### 💫 Neuron Sensitivity Based Testing
+
+#### [**CORR 2022**] [DeepSensor: Deep Learning Testing Framework Based on Neuron Sensitivity.](https://arxiv.org/abs/2202.07464)
+
+
+### 💫 Mutation Testing
+
+#### [**ISSTA 2021**] [DeepCrime: mutation testing of deep learning systems based on real faults.](https://dl.acm.org/doi/10.1145/3460319.3464825)
+
+
+#### [**ASE 2021**] [DeepMetis: Augmenting a Deep Learning Test Set to Increase its Mutation Score.](https://arxiv.org/abs/2109.07514)
+
+
+#### [**ASE 2019**] [DeepMutation++: A Mutation Testing Framework for Deep Learning Systems. ](https://dl.acm.org/doi/pdf/10.1109/ASE.2019.00126)
+
+
+#### [**ISSRE 2018**] [DeepMutation: Mutation Testing of Deep Learning Systems.](https://arxiv.org/pdf/1805.05206.pdf)
+
+#### [**IEEE QRSC 2018**] [MuNN: Mutation Analysis of Neural Networks.](https://ieeexplore.ieee.org/abstract/document/8431960)
+
+#### [**ISSTA 2016**] [Predictive mutation testing.](https://dl.acm.org/doi/abs/10.1145/2931037.2931038)
+
+
+
+### 💫 Model Based Testing
 ####  [**FSE 2020**] [Model-based exploration of the frontier of behaviours for deep learning system testing.](https://dl.acm.org/doi/pdf/10.1145/3368089.3409730?casa_token=GrLj6n_mt10AAAAA:u9FoFIy6FWSazxZsXJ1Glo6NItges6EnTIiVjTQ9_EVathiikDbpBHaP0_BTeEyaaCP-ZxDqtBRn8iE)
+
+
 
 
 ## License
