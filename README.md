@@ -115,7 +115,7 @@
 
 #### [**ISSTA 2020**] [DeepGini: Prioritizing Massive Tests to Enhance the Robustness of Deep Neural Networks.](https://arxiv.org/pdf/1903.00661.pdf)
 
-#### [**ICSE 2020**] [Fuzz Testing Based Data Augmentation to Improve Robustness of Deep Neural Networks.](hhttps://dl.acm.org/doi/10.1145/3377811.3380415)
+#### [**ICSE 2020**] [Fuzz Testing Based Data Augmentation to Improve Robustness of Deep Neural Networks.](https://dl.acm.org/doi/10.1145/3377811.3380415)
 
 #### [**USENIX 2019**] [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks.](https://www.usenix.org/system/files/sec19-carlini.pdf)
 
