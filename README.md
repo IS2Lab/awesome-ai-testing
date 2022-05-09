@@ -15,7 +15,7 @@
 ## Researchers
 | **China** |  |  |
 |:-----|:----|:----|
-| [Zhenyu Chen](http://www.iselab.cn/html/people/faculty/ZhenyuChen.html), Nanjing University |[Xiaoxing Ma](https://cs.nju.edu.cn/ics/people/xiaoxingma/index.html), Nanjing University | [Yu Jiang](https://sites.google.com/site/jiangyu198964/home), Tsinghua University| [Lijun Zhang](https://iscasmc.ios.ac.cn/iscasmcwp/?page_id=148), CAS | [Jingyi Wang](https://person.zju.edu.cn/wangjyee), ZJU | [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/)|  |
+| [Zhenyu Chen](http://www.iselab.cn/html/people/faculty/ZhenyuChen.html), Nanjing University |[Xiaoxing Ma](https://cs.nju.edu.cn/ics/people/xiaoxingma/index.html), Nanjing University | [Yu Jiang](https://sites.google.com/site/jiangyu198964/home), Tsinghua University | [Lijun Zhang](https://iscasmc.ios.ac.cn/iscasmcwp/?page_id=148), CAS | [Jingyi Wang](https://person.zju.edu.cn/wangjyee), ZJU | [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/)|  |
 |  **Singapore** |  |  |
 | [Yang Liu](https://personal.ntu.edu.sg/yangliu/), NTU|[Jun Sun](sunjun.site), SMU |  |
 | **USA** |  |  |
@@ -32,7 +32,7 @@
   * [USENIX](https://www.usenix.org/) **|** [S&P](https://www.ieee-security.org/TC/SP2022/) **|** [CSS](https://css2022.xidian.edu.cn/) **|** [NDSS](https://www.ndss-symposium.org/)
 ## Papers
 ### 💫 Survey
-#### [**ISSTA 2022**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
+#### [**TSE 2021**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
 
 ### 💫 Evaluation of testing methods
 
