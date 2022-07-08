@@ -6,6 +6,7 @@
   * 🌟 [Papers](#Papers)
     + [Survey](#Survey)
     + [Evaluation of testing methods](#Evaluation-of-testing-methods)
+    + [Causality-Based Testing](#Causality-Based-Testing)
     + [Coverage-Guided Testing](#Coverage-Guided-Testing)
     + [Test Suites Based Methods](#Test-cases-based-methods)  
     + [Mutation Testing](#Mutation-Testing)
@@ -53,6 +54,8 @@
 **Evaluation of Mutation Testing**
 #### [**ICSE 2021**] [What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection.](https://arxiv.org/abs/2103.01341)
 
+### 💫 Causality-Based Testing
+#### [**ICSE 2022**] [CARE: Causality-based Neural Network Repair](https://arxiv.org/pdf/2204.09274.pdf)
 
 ### 💫 Coverage-Guided Testing
 
