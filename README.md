@@ -32,7 +32,7 @@
   * [USENIX](https://www.usenix.org/) **|** [S&P](https://www.ieee-security.org/TC/SP2022/) **|** [CSS](https://css2022.xidian.edu.cn/) **|** [NDSS](https://www.ndss-symposium.org/)
 ## Papers
 ### 💫 Survey
-#### [**TSE 2021**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
+#### [** ISSTA 2020**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
 
 ### 💫 Evaluation of testing methods
 
@@ -41,6 +41,9 @@
 #### [**ASE 2020**] [Cats Are Not Fish: Deep Learning Testing Calls for Out-Of-Distribution Awareness.](https://ieeexplore.ieee.org/document/9286113)
 
 **Limitations of Coverage-Guided Testing**
+
+#### [**CVPR 2022**] [Is Neuron Coverage Needed to Make Person Detection More Robust?](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Pavlitskaya_Is_Neuron_Coverage_Needed_To_Make_Person_Detection_More_Robust_CVPRW_2022_paper.pdf)
+
 #### [**FSE 2020**] [Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks?](https://dl.acm.org/doi/pdf/10.1145/3368089.3409754)
 
 #### [**ICSE 2019**] [Structural Coverage Criteria for Neural Networks Could Be Misleading.](https://ieeexplore.ieee.org/document/8805667)
