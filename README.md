@@ -31,7 +31,8 @@
   * [USENIX](https://www.usenix.org/) **|** [S&P](https://www.ieee-security.org/TC/SP2022/) **|** [CSS](https://css2022.xidian.edu.cn/) **|** [NDSS](https://www.ndss-symposium.org/)
 ## Papers
 ### 💫 Survey
-#### [** ISSTA 2020**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
+
+#### [**ISSTA 2020**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
 
 ### 💫 Evaluation of testing methods
 
