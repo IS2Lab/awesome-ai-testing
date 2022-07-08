@@ -57,7 +57,7 @@
 ### 💫 Causality-Based Testing
 #### [**ICSE 2022**] [CARE: Causality-based Neural Network Repair](https://arxiv.org/pdf/2204.09274.pdf)
 #### [**ICML 2022**] [Inducing Causal Structure for Interpretable Neural Networks.](https://arxiv.org/abs/2112.00826)
-#### [**NeurIPS 2021**] [Causal Abstractions of Neural Networks.]([https://arxiv.org/abs/2112.00826](https://proceedings.neurips.cc/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf))
+#### [**NeurIPS 2021**] [Causal Abstractions of Neural Networks.]([https://arxiv.org/abs/2112.00826(https://proceedings.neurips.cc/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf)
 
 ### 💫 Coverage-Guided Testing
 
