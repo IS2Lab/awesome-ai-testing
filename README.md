@@ -7,8 +7,7 @@
     + [Survey](#Survey)
     + [Evaluation of testing methods](#Evaluation-of-testing-methods)
     + [Coverage-Guided Testing](#Coverage-Guided-Testing)
-    + [Test Suites Based Methods](#Test-cases-based-methods) 
-    + [Neuron Sensitivity Based Testing](#Neuron-Sensitivity-Based-Testing) 
+    + [Test Suites Based Methods](#Test-cases-based-methods)  
     + [Mutation Testing](#Mutation-Testing)
     + [Model Based Testing](##Model-Based-Testing)
   * 🌟 [License](#License)
@@ -120,6 +119,8 @@
 
 #### [**ICSE 2020**] [Fuzz Testing Based Data Augmentation to Improve Robustness of Deep Neural Networks.](https://dl.acm.org/doi/10.1145/3377811.3380415)
 
+#### [**CORR 2022**] [DeepSensor: Deep Learning Testing Framework Based on Neuron Sensitivity.](https://arxiv.org/abs/2202.07464)
+
 #### [**USENIX 2019**] [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks.](https://www.usenix.org/system/files/sec19-carlini.pdf)
 
 #### [**ICSME 2019**] [DeepEvolution: A Search-Based Testing Approach for Deep Neural Networks.](https://arxiv.org/abs/1909.02563)
@@ -130,9 +131,7 @@
 
 #### [**FSE 2017**] [Fairness Testing: Testing Software for Discrimination ](https://dl.acm.org/doi/pdf/10.1145/3106237.3106277)
 
-### 💫 Neuron Sensitivity Based Testing
 
-#### [**CORR 2022**] [DeepSensor: Deep Learning Testing Framework Based on Neuron Sensitivity.](https://arxiv.org/abs/2202.07464)
 
 
 ### 💫 Mutation Testing
