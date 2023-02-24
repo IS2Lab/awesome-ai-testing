@@ -12,7 +12,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 ***✅ What is the goal of AI Testing？*** The goal of AI testing is to identify and fix any errors, biases, or vulnerabilities in AI systems, ensuring that they meet the required standards and perform optimally in different environments. This is crucial for applications such as autonomous vehicles, medical diagnosis, and financial forecasting, where accuracy and reliability are essential.
 
 ## Contents
-* 🌟 [Researchers](./papers.md)
+* 🌟 [Researchers](./researchers.md)
  * 🌟 [Conferences](#Conferences)
  * 🌟 [Papers](#Papers)
    + [Survey](#Survey)
