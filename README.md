@@ -15,14 +15,16 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 * [Researchers](./files/researchers.md)
 * [Conferences](./files/conferences.md)
 * [Papers](./files/papers.md) 
+
+
 ⚠️Only the latest work is shown here, for more content, please click on the title to go to the details page.
-    + [Survey]
-    + [Evaluation of testing methods](#Evaluation-of-testing-methods)
-    + [Causality-Based Testing](#Causality-Based-Testing)
-    + [Coverage-Guided Testing](#Coverage-Guided-Testing)
-    + [Test Suites Based Methods](#Test-cases-based-methods)  
-    + [Mutation Testing](#Mutation-Testing)
-    + [Model Based Testing](##Model-Based-Testing)
+    + [Survey](./files/papers.md) 
+    + [Evaluation of testing methods](./files/papers.md) 
+    + [Causality-Based Testing](./files/papers.md) 
+    + [Coverage-Guided Testing](./files/papers.md) 
+    + [Test Suites Based Methods](./files/papers.md) 
+    + [Mutation Testing](./files/papers.md) 
+    + [Model Based Testing](./files/papers.md) 
 * [License](./LICENSE)
 
 ## Latest updates
