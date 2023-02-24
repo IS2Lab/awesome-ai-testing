@@ -1,6 +1,6 @@
 # Awesome-AI-Testing
 A curated list of awesome publications and researchers on AI testing updated and maintained by [***The Intelligent System Security (IS2) Lab***](https://is2lab.github.io/).
-![IS2Lab](is2lab.png)
+![IS2Lab](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/is2lab.png)
 
 ## AI testing
 
