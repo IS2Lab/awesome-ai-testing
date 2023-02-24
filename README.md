@@ -16,7 +16,9 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 * [Conferences](./files/conferences.md)
 * [Papers](./files/papers.md)  ***⚠️ Only the latest work here, please click the title for more.***
     + [Survey](./files/papers.md) 
-  
+    <br /> [**IEEE Access 2023**] [Toward Deep-Learning-Based Methods in Image Forgery Detection: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10035377)
+    <br /> [**ACM Computing Surveys 2023**] [A Comprehensive Survey on Poisoning Attacks and Countermeasures in Machine Learning](https://scholar.google.co.uk/scholar?q=A+Comprehensive+Survey+on+Poisoning+Attacks+and+Countermeasures+in+Machine+Learning.&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)
+    <br /> [**Neurocomputing 2023**] [Adversarial examples based on object detection tasks: A survey](https://scholar.google.co.uk/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Adversarial+examples+based+on+object+detection+tasks%3A+A+survey.&btnG=)
     + [Evaluation of testing methods](./files/papers.md) 
     
     + [Causality-Based Testing](./files/papers.md) 
