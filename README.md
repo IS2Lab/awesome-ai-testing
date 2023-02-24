@@ -4,6 +4,7 @@ A curated list of awesome publications and researchers on AI testing updated and
 
 ## AI testing
 
+<font color=#00035b > ***What is AI Testing?*** </font>
 ***What is AI Testing?*** AI Testing refers to the process of evaluating and verifying the performance of artificial intelligence (AI) systems. It involves testing the AI models, algorithms, and systems to ensure that they function correctly, produce accurate results, and are reliable in their decision-making processes.
 
 ***How AI Testing works？*** AI Testing can be done in several ways, such as functional testing, performance testing, security testing, usability testing, and more. It also involves the creation of test cases and data sets, evaluating the accuracy of training data, validating models against real-world scenarios, and monitoring the performance of AI systems in production.
