@@ -16,7 +16,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 ### [Conferences](./files/conferences.md)
 ### [Papers](./files/papers.md)  ***⚠️ Only the latest work here, please click the title for more.***
 
-#### [Survey](./files/papers.md) 
+#### [🎀 Survey](./files/papers.md) 
 
 ###### [***IEEE Access 2023***] [*Toward Deep-Learning-Based Methods in Image Forgery Detection: A Survey*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10035377)
 
@@ -24,11 +24,11 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ###### [***Neurocomputing 2023***] [*Adversarial examples based on object detection tasks: A survey*](https://scholar.google.co.uk/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Adversarial+examples+based+on+object+detection+tasks%3A+A+survey.&btnG=)
 
-#### [Evaluation of testing methods](./files/papers.md) 
+#### [🎀 Evaluation of testing methods](./files/papers.md) 
     
-#### [Causality-Based Testing](./files/papers.md) 
+#### [🎀 Causality-Based Testing](./files/papers.md) 
     
-#### [Coverage-Guided Testing](./files/papers.md) 
+#### [🎀 Coverage-Guided Testing](./files/papers.md) 
 
 ###### [***CVPR  2022***] [*Is Neuron Coverage Needed to Make Person Detection More Robust?*](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Pavlitskaya_Is_Neuron_Coverage_Needed_To_Make_Person_Detection_More_Robust_CVPRW_2022_paper.pdf)
 
@@ -36,11 +36,11 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ###### [***SANER 2022***] [*Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks.*](https://arxiv.org/pdf/2201.00191.pdf)
 
-#### [Test Suites Based Methods](./files/papers.md)
+#### [🎀 Test Suites Based Methods](./files/papers.md)
     
-#### [Mutation Testing](./files/papers.md) 
+#### [🎀 Mutation Testing](./files/papers.md) 
     
-#### [Model Based Testing](./files/papers.md) 
+#### [🎀 Model Based Testing](./files/papers.md) 
     
 ### [License](./LICENSE)
 
