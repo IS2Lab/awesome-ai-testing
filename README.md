@@ -22,9 +22,9 @@ AI Testing refers to the process of evaluating and verifying the performance of 
     + [Causality-Based Testing](./files/papers.md) 
     
     + [Coverage-Guided Testing](./files/papers.md) 
-    <br /> <font size=4> [***CVPR 2022***] [*Is Neuron Coverage Needed to Make Person Detection More Robust?*](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Pavlitskaya_Is_Neuron_Coverage_Needed_To_Make_Person_Detection_More_Robust_CVPRW_2022_paper.pdf) </font>
-    <br /> <font size=4> [***NAACL 2022***] [*White-box Testing of NLP models with Mask Neuron Coverage.*](https://arxiv.org/abs/2205.05050)
-    + [Test Suites Based Methods](./files/papers.md) </font>
+    <br /> <font size=4>[***CVPR 2022***] [*Is Neuron Coverage Needed to Make Person Detection More Robust?*](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Pavlitskaya_Is_Neuron_Coverage_Needed_To_Make_Person_Detection_More_Robust_CVPRW_2022_paper.pdf)</font>
+    <br /> <font size=4>[***NAACL 2022***] [*White-box Testing of NLP models with Mask Neuron Coverage.*](https://arxiv.org/abs/2205.05050)
+    + [Test Suites Based Methods](./files/papers.md)</font>
     
     + [Mutation Testing](./files/papers.md) 
     
