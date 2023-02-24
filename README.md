@@ -16,7 +16,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 ### [✅ Conferences](./files/conferences.md)
 ### [✅ Papers](./files/papers.md)  ***⚠️ Only the latest work here, please click the title for more.***
 
-#### [▶️ Survey](./files/papers.md) 
+#### [Survey](./files/papers.md) 
 
 ###### [***IEEE Access 2023***] [*Toward Deep-Learning-Based Methods in Image Forgery Detection: A Survey*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10035377)
 
