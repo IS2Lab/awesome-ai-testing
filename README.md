@@ -12,28 +12,37 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 ***✅ What is the goal of AI Testing？*** The goal of AI testing is to identify and fix any errors, biases, or vulnerabilities in AI systems, ensuring that they meet the required standards and perform optimally in different environments. This is crucial for applications such as autonomous vehicles, medical diagnosis, and financial forecasting, where accuracy and reliability are essential.
 
 ## Contents
-* [Researchers](./files/researchers.md)
-* [Conferences](./files/conferences.md)
-* [Papers](./files/papers.md)  ***⚠️ Only the latest work here, please click the title for more.***
+### [Researchers](./files/researchers.md)
+### [Conferences](./files/conferences.md)
+### [Papers](./files/papers.md)  ***⚠️ Only the latest work here, please click the title for more.***
+
 #### [Survey](./files/papers.md) 
+
 ###### [***IEEE Access 2023***] [*Toward Deep-Learning-Based Methods in Image Forgery Detection: A Survey*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10035377)
+
 ###### [***ACM Computing Surveys 2023***] [*A Comprehensive Survey on Poisoning Attacks and Countermeasures in Machine Learning*](https://scholar.google.co.uk/scholar?q=A+Comprehensive+Survey+on+Poisoning+Attacks+and+Countermeasures+in+Machine+Learning.&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)
+
 ###### [***Neurocomputing 2023***] [*Adversarial examples based on object detection tasks: A survey*](https://scholar.google.co.uk/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Adversarial+examples+based+on+object+detection+tasks%3A+A+survey.&btnG=)
-    + [Evaluation of testing methods](./files/papers.md) 
+
+#### [Evaluation of testing methods](./files/papers.md) 
     
-    + [Causality-Based Testing](./files/papers.md) 
+#### [Causality-Based Testing](./files/papers.md) 
     
-    + [Coverage-Guided Testing](./files/papers.md) 
-    <br /> [***CVPR  2022***] [*Is Neuron Coverage Needed to Make Person Detection More Robust?*](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Pavlitskaya_Is_Neuron_Coverage_Needed_To_Make_Person_Detection_More_Robust_CVPRW_2022_paper.pdf)
-    <br /> [***NAACL 2022***] [*White-box Testing of NLP models with Mask Neuron Coverage.*](https://arxiv.org/abs/2205.05050)
-    <br /> [***SANER 2022***] [*Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks.*](https://arxiv.org/pdf/2201.00191.pdf)
-    + [Test Suites Based Methods](./files/papers.md)
+#### [Coverage-Guided Testing](./files/papers.md) 
+
+###### [***CVPR  2022***] [*Is Neuron Coverage Needed to Make Person Detection More Robust?*](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Pavlitskaya_Is_Neuron_Coverage_Needed_To_Make_Person_Detection_More_Robust_CVPRW_2022_paper.pdf)
+
+###### [***NAACL 2022***] [*White-box Testing of NLP models with Mask Neuron Coverage.*](https://arxiv.org/abs/2205.05050)
+
+###### [***SANER 2022***] [*Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks.*](https://arxiv.org/pdf/2201.00191.pdf)
+
+#### [Test Suites Based Methods](./files/papers.md)
     
-    + [Mutation Testing](./files/papers.md) 
+#### [Mutation Testing](./files/papers.md) 
     
-    + [Model Based Testing](./files/papers.md) 
+#### [Model Based Testing](./files/papers.md) 
     
-* [License](./LICENSE)
+### [License](./LICENSE)
 
 ## Latest updates
 
