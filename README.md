@@ -39,12 +39,9 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 ###### [***NAACL 2022***] [*White-box Testing of NLP models with Mask Neuron Coverage.*](https://arxiv.org/abs/2205.05050)
 
 ###### [***SANER 2022***] [*Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks.*](https://arxiv.org/pdf/2201.00191.pdf)
-
-#### [Test Suites Based Methods](./files/papers.md)
     
 #### [Mutation Testing](./files/papers.md) 
     
-#### [Model Based Testing](./files/papers.md) 
     
 ### [✅ License](./LICENSE)
 
