@@ -1,7 +1,9 @@
 ## Papers
 ### 💫 Survey
 
-#### [**ISSTA 2020**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
+##### [***IEEE Trans 2021**] [Towards a Robust Deep Neural Network Against Adversarial Texts: A Survey](https://ieeexplore.ieee.org/abstract/document/9557814)
+##### [***IEEE Trans 2020**] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
+##### [***Computer Science Review 2020***] [A survey of safety and trustworthiness of deep neural networks: Verification, testing, adversarial attack and defence, and interpretability](https://www.sciencedirect.com/science/article/abs/pii/S1574013719302527)
 
 ### 💫 Evaluation of testing methods
 
