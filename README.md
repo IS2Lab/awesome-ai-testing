@@ -13,7 +13,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ## Contents
 * [Researchers](./files/researchers.md)
-* [Conferences](#Conferences)
+* [Conferences](./files/conferences.md)
 * [Papers](#Papers)
    + [Survey](#Survey)
    + [Evaluation of testing methods](#Evaluation-of-testing-methods)
