@@ -13,12 +13,26 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ## Contents
 ### [✅ Researchers](./files/researchers.md)
+
+| **China** |  |  |
+|:-----|:----|:----|
+| [Zhenyu Chen](http://www.iselab.cn/html/people/faculty/ZhenyuChen.html), Nanjing University |[Xiaoxing Ma](https://cs.nju.edu.cn/ics/people/xiaoxingma/index.html), Nanjing University | [Yu Jiang](https://sites.google.com/site/jiangyu198964/home), Tsinghua University | [Lijun Zhang](https://iscasmc.ios.ac.cn/iscasmcwp/?page_id=148), CAS | [Jingyi Wang](https://person.zju.edu.cn/wangjyee), ZJU | [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/)|  |
+|  **Singapore** |  |  |
+| [Yang Liu](https://personal.ntu.edu.sg/yangliu/), NTU|[Jun Sun](sunjun.site), SMU |  |
+| **USA** |  |  |
+| [Kexin Pei](https://sites.google.com/site/kexinpeisite/), Columbia University| [Felix Juefei Xu](http://xujuefei.com/), CMU|  |
+| **UK** |  |  |
+| [Youcheng Sun](https://sites.google.com/site/theyoucheng/), University of Manchester| [Mark Harman](), UCL & Facebook | [Jie Zhang](), UCL | [Xiaowei Huang](), University of Liverpool  |  |  |  
+| **Canada** |  |  |
+| [Lei Ma](https://malei.xyz), UA|  |  |
+
+
 ### [✅ Conferences and Journals](./files/conferences.md)
 
-- Journals
-  * [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) **|** [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) **|** [TOSEM](https://dl.acm.org/journal/tosem) **|** [TSE](http://dblp.uni-trier.de/db/journals/tse/)
-- Conferences   
-  * [CCS](https://css2022.xidian.edu.cn/) **|** [S&P](https://www.ieee-security.org/TC/SP2022/) **|** [USENIX](https://www.usenix.org/) **|**  [NDSS](https://www.ndss-symposium.org/) **|** [ASE](https://www.aseglobal.com/) **|** [ICSE](http://www.icse-conferences.org/) **|**  [ISSTA](https://dl.acm.org/conference/issta) **|** [AAAI](https://aaai.org/) **|** [CVPR](https://cvpr2022.thecvf.com/) **|** [IJCAI](https://ijcai-23.org/)
+- **Journals**
+  * [**TDSC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) **|** [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) **|** [**TOSEM**](https://dl.acm.org/journal/tosem) **|** [**TSE**](http://dblp.uni-trier.de/db/journals/tse/)
+- **Conferences**   
+  * [**CCS**](https://css2022.xidian.edu.cn/) **|** [**S&P**](https://www.ieee-security.org/TC/SP2022/) **|** [**USENIX**](https://www.usenix.org/) **|**  [**NDSS**](https://www.ndss-symposium.org/) **|** [**ASE**](https://www.aseglobal.com/) **|** [**ICSE**](http://www.icse-conferences.org/) **|**  [**ISSTA**](https://dl.acm.org/conference/issta) **|** [**AAAI**](https://aaai.org/) **|** [**CVPR**](https://cvpr2022.thecvf.com/) **|** [**IJCAI**](https://ijcai-23.org/)
  
 ### [✅ Papers](./files/papers.md)  ***⚠️ Only the latest work here, please click the title for more.***
 
