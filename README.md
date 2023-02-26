@@ -75,6 +75,8 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ## Latest updates
 
+[***ISSTA '22: 31st***](https://dblp.org/db/conf/issta/issta2022.html)
+[***ICSE '22: 44th***](https://dblp.org/db/conf/icse/icse2022.html#DanilovaH0N22)
 
 ## Latest achievements
 
