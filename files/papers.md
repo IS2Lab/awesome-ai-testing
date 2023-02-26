@@ -1,13 +1,13 @@
 ## Papers
 
 - Contents
-   * [Survey](#Survey)
-   * [Evaluation of testing methods](#Evaluation-of-testing-methods)
-   * [Causality-Based Testing](#Causality-Based-Testing)
-   * [Coverage-Guided Testing](#Coverage-Guided-Testing)
-   * [Test Suites Based Methods](#Test-cases-based-methods)  
-   * [Mutation Testing](#Mutation-Testing)
-   * [Model Based Testing](#Model-Based-Testing)
+   * [Survey](#survey)
+   * [Evaluation of testing methods](#evaluation-of-testing-methods)
+   * [Causality-Based Testing](#causality-Based-Testing)
+   * [Coverage-Guided Testing](#coverage-Guided-Testing)
+   * [Test Suites Based Methods](#test-cases-based-methods)  
+   * [Mutation Testing](#mutation-Testing)
+   * [Model Based Testing](#model-Based-Testing)
 
 ### 💫 Survey
 ##### [***IEEE Access 2023***] [*Toward Deep-Learning-Based Methods in Image Forgery Detection: A Survey*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10035377)
