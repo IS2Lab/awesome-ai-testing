@@ -53,6 +53,12 @@
 <span id="coverage-Guided-Testing">  </span>
 ### 💫 Coverage-Guided Testing
 
+##### [***CVPR  2022***] [*Is Neuron Coverage Needed to Make Person Detection More Robust?*](https://openaccess.thecvf.com/content/CVPR2022W/FaDE-TCV/papers/Pavlitskaya_Is_Neuron_Coverage_Needed_To_Make_Person_Detection_More_Robust_CVPRW_2022_paper.pdf)
+
+##### [***NAACL 2022***] [*White-box Testing of NLP models with Mask Neuron Coverage.*](https://arxiv.org/abs/2205.05050)
+
+##### [***SANER 2022***] [*Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks.*](https://arxiv.org/pdf/2201.00191.pdf)
+
 ##### [**ICSE 2021**] [Distribution-Aware Testing of Neural Networks Using Generative Models.](https://arxiv.org/pdf/2102.13602.pdf)
 
 ##### [**SANER 2021**] [DeepCon: Contribution Coverage Testing for Deep Learning Systems.](https://www.researchgate.net/publication351501735_DeepCon_Contribution_Coverage_Testing_for_Deep_Learning_Systems)
@@ -63,7 +69,6 @@
 
 
 ##### [**ISSTA 2020**] [Effective white-box testing of deep neural networks with adaptive neuron-selection strategy.](https://dl.acm.org/doi/pdf/10.1145/3395363.3397346?casa_token=RZ5-zSG7tOsAAAAA:gG0PhgfkLMTCAAf1AEDQVgELqNZXCNMYPZ-bKWu61fLCVxFUsGUWMyDEAEONYAENzNhnXQmbYeeQyJ4)
-
 
 ##### [**ICSE 2020**] [Uncertainty-guided testing and robustness enhancement for deep learning systems. ](https://dl.acm.org/doi/pdf/10.1145/3377812.3382160?casa_token=aZMrhNOESSgAAAAA:-Ns-ulCiF_e8SCENNcvXRySgafCemKlX87A0_zbwEN7ag8UoFJ0OoyKTL5T3_47Lqw2J6CW17bE7_hw)
 
@@ -136,6 +141,11 @@
 
 <span id="mutation-Testing">  </span>
 ### 💫 Mutation Testing
+##### [***Information and Software Technology 2023***] [*A probabilistic framework for mutation testing in deep neural networks.*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+probabilistic+framework+for+mutation+testing+in+deep+neural+networks.&btnG=)
+
+##### [***Journal of Systems and Software 2023***] [*The language mutation problem: Leveraging language product lines for mutation testing of interpreters.*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=The+language+mutation+problem%3A+Leveraging+language+product+lines+for+mutation+testing+of+interpreters.+&btnG=)
+
+##### [***IEEE Trans 2021***] [*Enhancement of mutation testing via fuzzy clustering and multi-population genetic algorithm.*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Enhancement+of+Mutation+Testing+via+Fuzzy+Clustering+and+Multi-Population+Genetic+Algorithm.&btnG=)
 
 ##### [**ISSTA 2021**] [DeepCrime: mutation testing of deep learning systems based on real faults.](https://dl.acm.org/doi/10.1145/3460319.3464825)
 
