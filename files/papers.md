@@ -7,7 +7,6 @@
    * [Coverage-Guided Testing](#coverage-Guided-Testing)
    * [Test Suites Based Methods](#test-cases-based-methods)  
    * [Mutation Testing](#mutation-Testing)
-   * [Model Based Testing](#model-Based-Testing)
 
 <span id="survey">  </span>
 ### 💫 Survey
@@ -21,6 +20,9 @@
 ##### [IEEE Trans 2020] [*Machine Learning Testing: Survey, Landscapes and Horizons.*](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
 ##### [Computer Science Review 2020] [*A survey of safety and trustworthiness of deep neural networks: Verification, testing, adversarial attack and defence, and interpretability*](https://www.sciencedirect.com/science/article/abs/pii/S1574013719302527)
 
+
+
+<span id="evaluation-of-testing-methods">  </span>
 ### 💫 Evaluation of testing methods
 
 **Distribution of Generated Test Data**
@@ -40,11 +42,15 @@
 **Evaluation of Mutation Testing**
 ##### [**ICSE 2021**] [What Are We Really Testing in Mutation Testing for Machine Learning? A Critical Reflection.](https://arxiv.org/abs/2103.01341)
 
+
+<span id="causality-Based-Testing">  </span>
 ### 💫 Causality-Based Testing
 ##### [**ICSE 2022**] [CARE: Causality-based Neural Network Repair](https://arxiv.org/pdf/2204.09274.pdf)
 ##### [**ICML 2022**] [Inducing Causal Structure for Interpretable Neural Networks.](https://arxiv.org/abs/2112.00826)
 ##### [**NeurIPS 2021**] [Causal Abstractions of Neural Network.](https://proceedings.neurips.cc/paper/2021/file/4f5c422f4d49a5a807eda27434231040-Paper.pdf)
 
+
+<span id="coverage-Guided-Testing">  </span>
 ### 💫 Coverage-Guided Testing
 
 ##### [**ICSE 2021**] [Distribution-Aware Testing of Neural Networks Using Generative Models.](https://arxiv.org/pdf/2102.13602.pdf)
@@ -96,6 +102,9 @@
 
 ##### [**SOSP 2017**] [DeepXplore: Automated Whitebox Testing of Deep Learning Systems.](https://arxiv.org/pdf/1705.06640.pdf)
 
+
+
+<span id="test-cases-based-methods">  </span>
 ### 💫 Test suites based methods
 
 ##### [**ICSE 2021**] [RobOT: Robustness-Oriented Testing for Deep Learning Systems.](https://arxiv.org/pdf/2102.05913.pdf)
@@ -125,7 +134,7 @@
 
 
 
-
+<span id="mutation-Testing">  </span>
 ### 💫 Mutation Testing
 
 ##### [**ISSTA 2021**] [DeepCrime: mutation testing of deep learning systems based on real faults.](https://dl.acm.org/doi/10.1145/3460319.3464825)
@@ -143,10 +152,3 @@
 ##### [**IEEE QRSC 2018**] [MuNN: Mutation Analysis of Neural Networks.](https://ieeexplore.ieee.org/abstract/document/8431960)
 
 ##### [**ISSTA 2016**] [Predictive mutation testing.](https://dl.acm.org/doi/abs/10.1145/2931037.2931038)
-
-
-
-### 💫 Model Based Testing
-#####  [**FSE 2020**] [Model-based exploration of the frontier of behaviours for deep learning system testing.](https://dl.acm.org/doi/pdf/10.1145/3368089.3409730?casa_token=GrLj6n_mt10AAAAA:u9FoFIy6FWSazxZsXJ1Glo6NItges6EnTIiVjTQ9_EVathiikDbpBHaP0_BTeEyaaCP-ZxDqtBRn8iE)
-
-#####  [**ICSE 2020**] [Importance-Driven Deep Learning System Testing.](https://arxiv.org/abs/2002.03433)
