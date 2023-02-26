@@ -1,9 +1,14 @@
 ## Papers
 ### 💫 Survey
+##### [***IEEE Access 2023***] [*Toward Deep-Learning-Based Methods in Image Forgery Detection: A Survey*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10035377)
 
-##### [IEEE Trans 2021] [Towards a Robust Deep Neural Network Against Adversarial Texts: A Survey](https://ieeexplore.ieee.org/abstract/document/9557814)
-##### [IEEE Trans 2020] [Machine Learning Testing: Survey, Landscapes and Horizons.](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
-##### [Computer Science Review 2020] [A survey of safety and trustworthiness of deep neural networks: Verification, testing, adversarial attack and defence, and interpretability](https://www.sciencedirect.com/science/article/abs/pii/S1574013719302527)
+##### [***ACM Computing Surveys 2023***] [*A Comprehensive Survey on Poisoning Attacks and Countermeasures in Machine Learning*](https://scholar.google.co.uk/scholar?q=A+Comprehensive+Survey+on+Poisoning+Attacks+and+Countermeasures+in+Machine+Learning.&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart)
+
+##### [***Neurocomputing 2023***] [*Adversarial examples based on object detection tasks: A survey*](https://scholar.google.co.uk/scholar?hl=zh-CN&as_sdt=0%2C5&as_vis=1&q=Adversarial+examples+based+on+object+detection+tasks%3A+A+survey.&btnG=)
+
+##### [IEEE Trans 2021] [*Towards a Robust Deep Neural Network Against Adversarial Texts: A Survey*](https://ieeexplore.ieee.org/abstract/document/9557814)
+##### [IEEE Trans 2020] [*Machine Learning Testing: Survey, Landscapes and Horizons.*](https://arxiv.org/pdf/1906.10742.pdf?ref=https://githubhelp.com)
+##### [Computer Science Review 2020] [*A survey of safety and trustworthiness of deep neural networks: Verification, testing, adversarial attack and defence, and interpretability*](https://www.sciencedirect.com/science/article/abs/pii/S1574013719302527)
 
 ### 💫 Evaluation of testing methods
 
