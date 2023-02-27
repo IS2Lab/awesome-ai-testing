@@ -65,6 +65,9 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 ###### [***SANER 2022***] [*Revisiting Neuron Coverage Metrics and Quality of Deep Neural Networks.*](https://arxiv.org/pdf/2201.00191.pdf)
     
 #### [🌸 Mutation Testing](./files/papers.md) 
+
+###### [***ISSTA 2022***] [*BET: Black-Box Efficient Testing for Convolutional Neural Networks.*](https://dl.acm.org/doi/pdf/10.1145/3533767.3534386)
+
 ###### [***Information and Software Technology 2023***] [*A probabilistic framework for mutation testing in deep neural networks.*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+probabilistic+framework+for+mutation+testing+in+deep+neural+networks.&btnG=)
 
 ###### [***Journal of Systems and Software 2023***] [*The language mutation problem: Leveraging language product lines for mutation testing of interpreters.*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=The+language+mutation+problem%3A+Leveraging+language+product+lines+for+mutation+testing+of+interpreters.+&btnG=)
