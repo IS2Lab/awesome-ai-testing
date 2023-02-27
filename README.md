@@ -77,8 +77,8 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ## Latest updates
 
-### [***ISSTA '22: 31st***](https://dblp.org/db/conf/issta/issta2022.html)
-### [***ICSE '22: 44th***](https://dblp.org/db/conf/icse/icse2022.html#DanilovaH0N22)
+### [***ISSTA '22: 31st ACM SIGSOFT International Symposium on Software Testing and Analysis, Virtual Event, South Korea, July 18 - 22, 2022.***](https://dblp.org/db/conf/issta/issta2022.html)
+### [***ICSE '22: 44th ACM International Conference on Software Engineering, Pittsburgh, PA, USA, May 25-27, 2022. ***](https://dblp.org/db/conf/icse/icse2022.html#DanilovaH0N22)
 
 ## Latest achievements
 
