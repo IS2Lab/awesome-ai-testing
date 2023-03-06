@@ -239,8 +239,8 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ![more](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/more2.png)
 
-## [TOP Conferences and Journals](./files/conferences.md)
-### Journal
+## [Conferences and Journals](./files/conferences.md)
+### TOP Journal
 <table rules="none" align="center">
 	<tr>
 		<td>
@@ -273,8 +273,11 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		</td>
 	</tr>
 </table>
-
-
+### TOP Conferences
+<table rules="none" align="center">
+	<tr>
+	</tr>
+</table>
 - **Journals**
   * [**TDSC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) **|** [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) **|** [**TOSEM**](https://dl.acm.org/journal/tosem) **|** [**TSE**](http://dblp.uni-trier.de/db/journals/tse/)
 - **Conferences**   
