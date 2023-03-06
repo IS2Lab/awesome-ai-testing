@@ -280,7 +280,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 	<tr>
 		<td>
 		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/CCS.png" width="100" height="100">
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/CCS.png" width="300" height="300">
 			<br/>
 			<a href="https://css2022.xidian.edu.cn/"><b>CCS</b> <br/> <i>The ACM Conference on Computer <br/> and Communications Security</i></a>
             	</center>
