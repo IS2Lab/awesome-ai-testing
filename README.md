@@ -280,28 +280,28 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 	<tr>
 		<td>
 		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/CCS.png" width="220" height="220">
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/CCS.png" width="200" height="220">
 			<br/>
 			<a href="https://css2022.xidian.edu.cn/"><b>CCS</b> <br/> <i>The ACM Conference on Computer <br/> and Communications Security</i></a>
             	</center>
 		</td>  
 		<td>
 		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/SP.png" width="220" height="220">
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/SP.png" width="200" height="220">
 			<br/>
 			<a href="https://www.ieee-security.org/TC/SP2022/"><b>S&P</b> <br/> <i>IEEE Symposium on Security and Privacy</i></a>
             	</center>
 		</td>   
 		<td>
 		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/USENIX.png" width="220" height="220">
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/USENIX.png" width="200" height="220">
 			<br/>
 			<a href="https://www.usenix.org/"><b>USENIX</b> <br/> <i>USENIX Security</i></a>
             	</center>
 		</td>   
 		<td>
 		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/NDSS.png" width="220" height="220">
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/NDSS.png" width="200" height="220">
 			<br/>
 			<a href="https://www.ndss-symposium.org/"><b>NDSS</b> <br/> <i>Network and Distributed System Security Symposium</i></a>
             	</center>
