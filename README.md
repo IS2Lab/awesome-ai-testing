@@ -20,28 +20,28 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
                 	<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/renkui.png" width="100" height="100">	
 	               	<br/>
-			<font><b>Kui Ren</b> <br/> <i>Zhejiang University</i></font>
+			<font><b>Kui Ren</b> <br/> <i>ZJU, China</i></font>
             	</center>
         	</td>		
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/XinpengZhang%20.png" width="100" height="100">
 			<br/>
-			<font><b>Xinpeng Zhang</b> <br/> <i>Fudan University</i></font>
+			<font><b>Xinpeng Zhang</b> <br/> <i>FDU, China</i></font>
             	</center>
 		</td>		
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/xiaojiangDu.png" width="100" height="100">
 			<br/>
-			<font><b>Xiaojiang Du</b> <br/> <i>SIT</i></font>
+			<font><b>Xiaojiang Du</b> <br/> <i>SIT, USA</i></font>
             	</center>
 		</td>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/CharlesClancy.png" width="100" height="100">
 			<br/>
-			<font><b>Charles Clancy</b> <br/> <i>MITRE</i></font>
+			<font><b>Charles Clancy</b> <br/> <i>MITRE, USA</i></font>
             	</center>
 		</td>
 	</tr>
