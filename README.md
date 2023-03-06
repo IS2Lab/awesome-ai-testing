@@ -177,6 +177,20 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 	<tr>
 		<td>
 		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/YangLiu.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=zh-CN"><b>Yang Liu</b> <br/> <i>NTU, Singapore</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/XinyuWang.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?user=17mU6usAAAAJ&hl=zh-CN"><b>Xinyu Wang</b> <br/> <i>ZJU, China</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ZhanQin.png" width="100" height="100">
 			<br/>
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=5fa4lOQAAAAJ"><b>Zhan Qin</b> <br/> <i>ZJU, China</i></a>
@@ -189,6 +203,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=m6QY7-wAAAAJ"><b>Chao Shen</b> <br/> <i>XJTU, China</i></a>
             	</center>
 		</td>
+		
 	</tr>
 </table>
 
