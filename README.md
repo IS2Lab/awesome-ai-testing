@@ -27,28 +27,28 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/XinpengZhang%20.png" width="100" height="100">
 			<br/>
-			<font><b>Xinpeng Zhang</b> <br/> <i>FDU, China</i></font>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=P76GtHwAAAAJ"><b>Xinpeng Zhang</b> <br/> <i>FDU, China</i></a>
             	</center>
 		</td>		
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/xiaojiangDu.png" width="100" height="100">
 			<br/>
-			<font><b>Xiaojiang Du</b> <br/> <i>SIT, USA</i></font>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=9K9BlyYAAAAJ"><b>Xiaojiang Du</b> <br/> <i>SIT, USA</i></a>
             	</center>
 		</td>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/CharlesClancy.png" width="100" height="100">
 			<br/>
-			<font><b>Charles Clancy</b> <br/> <i>MITRE, USA</i></font>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=OQPZELkAAAAJ"><b>Charles Clancy</b> <br/> <i>MITRE, USA</i></a>
             	</center>
 		</td>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/HaoChen.png" width="100" height="100">
 			<br/>
-			<font><b>Hao Chen</b> <br/> <i>UC Davis, USA</i></font>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=1Aa3qxIAAAAJ"><b>Hao Chen</b> <br/> <i>UC Davis, USA</i></a>
             	</center>
 		</td>
 	</tr>
