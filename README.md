@@ -311,21 +311,21 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 </table>
 
 - **Software Engineering**
--    
+
 <table rules="none" align="center">
 	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ICSE.png" width="150" height="150">
 			<br/>
-			<a href="http://www.icse-conferences.org/"><b>ICSE</b> <br/> <i>International Conference on Software Engineering</i></a>
+			<a href="http://www.icse-conferences.org/"><b>ICSE</b> <br/> <i>International Conference on <br/> Software Engineering</i></a>
             	</center>
 		</td> 
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ASE.png" width="150" height="150">
 			<br/>
-			<a href="https://www.aseglobal.com/"><b>ASE</b> <br/> <i>International Conference on Automated Software Engineering
+			<a href="https://www.aseglobal.com/"><b>ASE</b> <br/> <i>International Conference on <br/> Automated Software Engineering
 </i></a>
             	</center>
 		</td> 
@@ -333,14 +333,14 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ISSTA.png" width="150" height="150">
 			<br/>
-			<a href="https://dl.acm.org/conference/issta"><b>ISSTA</b> <br/> <i>International Symposium on Software Testing and Analysis</i></a>
+			<a href="https://dl.acm.org/conference/issta"><b>ISSTA</b> <br/> <i>International Symposium on <br/> Software Testing and Analysis</i></a>
             	</center>
 		</td> 
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/FSE.png" width="150" height="150">
 			<br/>
-			<a href="https://2022.esec-fse.org/"><b>FSE</b> <br/> <i>Foundations of Software Engineering</i></a>
+			<a href="https://2022.esec-fse.org/"><b>FSE</b> <br/> <i>Foundations of Software <br/> Engineering</i></a>
             	</center>
 		</td> 
 	</tr>
