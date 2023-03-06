@@ -400,6 +400,10 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 This section provides -links- to the latest achievements for researchers to use and study.
 
 ### [ChatGPT: Chatbot program developed by OpenAI](https://openai.com/blog/chatgpt/)   
-***November 30, 2022***
+***OpenAI November 30, 2022***
 ![chatgpt](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/chatgpt.png)
 ChatGPT is a model which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
+
+### [LDM: AI can literally read our minds](https://sites.google.com/view/stablediffusion-with-brain/)
+***CVPR 2023 ***
+![LDM](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/LDM.png)
