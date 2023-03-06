@@ -241,18 +241,11 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ## [Conferences and Journals](./files/conferences.md)
 
-//居中
-.aligncenter { 
-clear: both; 
-display: block; 
-margin:auto; 
-} 
-
 <table rules="none" align="center">
 	<tr>
 		<td>
 		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TDSC.png" width="250" height="100" class="aligncenter">
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TDSC.png" width="250" height="100" class="text-align:center">
 			<br/>
 			<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858"><b>TDSC</b> <br/> <i>IEEE Transactions on Dependable and Secure Computing</i></a>
             	</center>
