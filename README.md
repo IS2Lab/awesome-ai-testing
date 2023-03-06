@@ -296,7 +296,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/USENIX.png" width="150" height="150">
 			<br/>
-			<a href="https://www.usenix.org/"><b>USENIX</b> <br/> <i>USENIX Security</i></a>
+			<a href="https://www.usenix.org/"><b>USENIX</b> <br/> <i>The Advanced Computing <br/> Systems Association</i></a>
             	</center>
 		</td>   
 		<td>
