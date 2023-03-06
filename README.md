@@ -403,8 +403,3 @@ This section provides -links- to the latest achievements for researchers to use 
 ***OpenAI November 30, 2022***
 ![chatgpt](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/chatgpt.png)
 ChatGPT is a model which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
-
-### [LDM: AI can literally read our minds](https://sites.google.com/view/stablediffusion-with-brain/)
-***CVPR 2023***
-![LDM](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/LDM.png)
-Authors propose a new method based on a diffusion model (DM) to reconstruct images from human brain activity obtained via functional magnetic resonance imaging (fMRI). They characterize the inner mechanisms of the LDM by studying how its different components (such as the latent vector Z, conditioning inputs C, and different elements of the denoising U-Net) relate to distinct brain functions. In a word, LDM proposes a promising method for reconstructing images from human brain activity, and provides a new framework for understanding DMs.
