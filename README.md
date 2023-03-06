@@ -20,8 +20,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
                 	<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/renkui.png" width="100" height="100">	
 	               	<br/>
-                	**Kui Ren**
-			<font color="AAAAAA">Kui Ren, <br/>Zhejiang University</font>
+			<font ><b>Kui Ren</b> <br/> <i>Zhejiang University</i></font>
             	</center>
         	</td>
 		<td>
