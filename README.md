@@ -120,8 +120,38 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		</td>
 	</tr>
 </table>
-
-
+<table rules="none" align="center">
+	<tr>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/LorenzoCavallaro.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=oWT7fIYAAAAJ"><b>Lorenzo Cavallaro</b> <br/> <i>UCL, UK</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/NeilZhenqiangGong.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=t6uCsYoAAAAJ"><b>Neil Zhenqiang Gong</b> <br/> <i>Duke, USA</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/SijiaLiu.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=C7dO_UgAAAAJ"><b>Sijia Liu</b> <br/> <i>MSU, USA</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/zhibowang.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=0ox7zDkAAAAJ"><b>Zhibo Wang</b> <br/> <i>ZJU, China</i></a>
+            	</center>
+		</td>
+	</tr>
+</table>
 
 ### [✅ Conferences and Journals](./files/conferences.md)
 
