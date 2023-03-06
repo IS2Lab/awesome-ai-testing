@@ -325,7 +325,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ASE.png" width="150" height="150">
 			<br/>
-			<a href="https://www.aseglobal.com/"><b>ASE</b> <br/> <i>International Conference on <br/> Automated Software Engineering
+			<a href="https://www.aseglobal.com/"><b>ASE</b> <br/> <i>International Conference <br/> on Automated Software <br/> Engineering
 </i></a>
             	</center>
 		</td> 
