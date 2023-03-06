@@ -276,8 +276,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ### TOP Conferences
 
-- **Information Securrity**  
-  **TDSC** **|** **TIFS** **|** **TOSEM** **|** **TSE**
+- **Information Securrity**  TDSC **|** TIFS **|** TOSEM **|** TSE
   
 <table rules="none" align="center">
 	<tr>
