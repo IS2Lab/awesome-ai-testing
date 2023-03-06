@@ -51,6 +51,10 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=1Aa3qxIAAAAJ"><b>Hao Chen</b> <br/> <i>UC Davis, USA</i></a>
             	</center>
 		</td>
+	</tr>
+</table>
+<table rules="none" align="center">
+	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/HaojinZhu.png" width="100" height="100">
@@ -74,8 +78,6 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		</td>
 	</tr>
 </table>
-
-
 
 
 
