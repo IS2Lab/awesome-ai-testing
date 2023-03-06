@@ -71,6 +71,59 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 	<tr>
 		<td>
 		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/YangLiu.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=zh-CN"><b>Yang Liu</b> <br/> <i>NTU, Singapore</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/XinyuWang.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?user=17mU6usAAAAJ&hl=zh-CN"><b>Xinyu Wang</b> <br/> <i>ZJU, China</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ZhanQin.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=5fa4lOQAAAAJ"><b>Zhan Qin</b> <br/> <i>ZJU, China</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ChaoShen.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=m6QY7-wAAAAJ"><b>Chao Shen</b> <br/> <i>XJTU, China</i></a>
+            	</center>
+		</td>	
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ShoulingJi.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=5HoF_9oAAAAJ"><b>Shouling Ji</b> <br/> <i>ZJU, China</i></a>
+            	</center>
+		</td>	
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/shutaoxia.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=koAXTXgAAAAJ"><b>Shu-Tao Xia</b> <br/> <i>THU, China</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/zhibowang.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=0ox7zDkAAAAJ"><b>Zhibo Wang</b> <br/> <i>ZJU, China</i></a>
+            	</center>
+		</td>
+	</tr>
+</table>
+<table rules="none" align="center">
+	<tr>
+		<td>
+		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/XinpengZhang%20.png" width="100" height="100">
 			<br/>
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=P76GtHwAAAAJ"><b>Xinpeng Zhang</b> <br/> <i>FDU, China</i></a>
@@ -131,20 +184,6 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		</td>	
 		<td>
 		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ShoulingJi.png" width="100" height="100">
-			<br/>
-			<a href="https://scholar.google.com/citations?hl=zh-CN&user=5HoF_9oAAAAJ"><b>Shouling Ji</b> <br/> <i>ZJU, China</i></a>
-            	</center>
-		</td>	
-		<td>
-		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/shutaoxia.png" width="100" height="100">
-			<br/>
-			<a href="https://scholar.google.com/citations?hl=zh-CN&user=koAXTXgAAAAJ"><b>Shu-Tao Xia</b> <br/> <i>THU, China</i></a>
-            	</center>
-		</td>
-		<td>
-		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/LorenzoCavallaro.png" width="100" height="100">
 			<br/>
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=oWT7fIYAAAAJ"><b>Lorenzo Cavallaro</b> <br/> <i>UCL, UK</i></a>
@@ -164,47 +203,9 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=C7dO_UgAAAAJ"><b>Sijia Liu</b> <br/> <i>MSU, USA</i></a>
             	</center>
 		</td>
-		<td>
-		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/zhibowang.png" width="100" height="100">
-			<br/>
-			<a href="https://scholar.google.com/citations?hl=zh-CN&user=0ox7zDkAAAAJ"><b>Zhibo Wang</b> <br/> <i>ZJU, China</i></a>
-            	</center>
-		</td>
 	</tr>
 </table>
-<table rules="none" align="center">
-	<tr>
-		<td>
-		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/YangLiu.png" width="100" height="100">
-			<br/>
-			<a href="https://scholar.google.com/citations?user=_Pvgwd0AAAAJ&hl=zh-CN"><b>Yang Liu</b> <br/> <i>NTU, Singapore</i></a>
-            	</center>
-		</td>
-		<td>
-		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/XinyuWang.png" width="100" height="100">
-			<br/>
-			<a href="https://scholar.google.com/citations?user=17mU6usAAAAJ&hl=zh-CN"><b>Xinyu Wang</b> <br/> <i>ZJU, China</i></a>
-            	</center>
-		</td>
-		<td>
-		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ZhanQin.png" width="100" height="100">
-			<br/>
-			<a href="https://scholar.google.com/citations?hl=zh-CN&user=5fa4lOQAAAAJ"><b>Zhan Qin</b> <br/> <i>ZJU, China</i></a>
-            	</center>
-		</td>
-		<td>
-		<center>
-    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ChaoShen.png" width="100" height="100">
-			<br/>
-			<a href="https://scholar.google.com/citations?hl=zh-CN&user=m6QY7-wAAAAJ"><b>Chao Shen</b> <br/> <i>XJTU, China</i></a>
-            	</center>
-		</td>		
-	</tr>
-</table>
+
 
 ### [✅ Conferences and Journals](./files/conferences.md)
 
