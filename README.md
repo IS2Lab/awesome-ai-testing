@@ -405,5 +405,5 @@ This section provides -links- to the latest achievements for researchers to use 
 ChatGPT is a model which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
 
 ### [LDM: AI can literally read our minds](https://sites.google.com/view/stablediffusion-with-brain/)
-***CVPR 2023 ***
+***CVPR 2023***
 ![LDM](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/LDM.png)
