@@ -67,8 +67,6 @@ AI Testing refers to the process of evaluating and verifying the performance of 
             	</center>
 		</td>
 	</tr>
-</table>
-<table rules="none" align="center">
 	<tr>
 		<td>
 		<center>
@@ -128,6 +126,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		</td>
 	</tr>
 </table>
+
 <table rules="none" align="center">
 	<tr>
 		<td>
