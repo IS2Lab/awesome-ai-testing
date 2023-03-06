@@ -32,11 +32,27 @@ AI Testing refers to the process of evaluating and verifying the performance of 
         	</td>
 		<td>
 		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/LimingZhu.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=C1zfS7wAAAAJ&view_op=list_works&sortby=pubdate"><b>Liming Zhu</b> <br/> <i>UNSW, AUS</i></a>
+            	</center>
+		</td>		
+		<td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/LeiMa.png" width="100" height="100">
+			<br/>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=xsfGc58AAAAJ"><b>Lei Ma</b> <br/> <i>Alberta, CAN</i></a>
+            	</center>
+		</td>	
+		<td>
+		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/XinpengZhang%20.png" width="100" height="100">
 			<br/>
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=P76GtHwAAAAJ"><b>Xinpeng Zhang</b> <br/> <i>FDU, China</i></a>
             	</center>
 		</td>		
+		<td>	
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/xiaojiangDu.png" width="100" height="100">
@@ -51,6 +67,10 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=OQPZELkAAAAJ"><b>Charles Clancy</b> <br/> <i>MITRE, USA</i></a>
             	</center>
 		</td>
+	</tr>
+</table>
+<table rules="none" align="center">
+	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/HaoChen.png" width="100" height="100">
@@ -65,10 +85,6 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=_5lzNDUAAAAJ"><b>Haojin Zhu</b> <br/> <i>SJTU, China</i></a>
             	</center>
 		</td>
-	</tr>
-</table>
-<table rules="none" align="center">
-	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/zhuliehuang.png" width="100" height="100">
@@ -103,7 +119,11 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<br/>
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=QqGPbXYAAAAJ"><b>Kan Yang</b> <br/> <i>Memphis, USA</i></a>
             	</center>
-		</td>
+		</td>			
+	</tr>
+</table>
+<table rules="none" align="center">
+	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/sunjun.png" width="100" height="100">
@@ -117,11 +137,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<br/>
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=5HoF_9oAAAAJ"><b>Shouling Ji</b> <br/> <i>ZJU, China</i></a>
             	</center>
-		</td>		
-	</tr>
-</table>
-<table rules="none" align="center">
-	<tr>
+		</td>	
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/shutaoxia.png" width="100" height="100">
