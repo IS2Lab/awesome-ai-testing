@@ -397,7 +397,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 #### [***ASE '22***](https://dblp.org/db/conf/kbse/ase2022.html) _IEEE/ACM International Conference on Automated Software Engineering_
 
 ## Latest Achievements
-This section provides -links- to the latest achievements for researchers to use and study.
+This section provides links to the latest achievements for researchers to use and study.
 
 ### [ChatGPT](https://openai.com/blog/chatgpt/)   
 ***OpenAI November 30, 2022***
