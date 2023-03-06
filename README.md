@@ -203,7 +203,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/HuanZhang.png" width="100" height="100">
 			<br/>
-			<a href="https://scholar.google.com/citations?hl=zh-CN&user=LTa3GzEAAAAJ"</b> <br/> <i>CMU, USA</i></a>
+			<a href="https://scholar.google.com/citations?hl=zh-CN&user=LTa3GzEAAAAJ"<b>Huan Zhang</b> <br/> <i>CMU, USA</i></a>
             	</center>
 		</td>
 		<td>
