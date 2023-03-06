@@ -289,7 +289,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/SP.png" width="150" height="150">
 			<br/>
-			<a href="https://www.ieee-security.org/TC/SP2022/"><b>S&P</b> <br/> <i>IEEE Symposium on Security and Privacy</i></a>
+			<a href="https://www.ieee-security.org/TC/SP2022/"><b>S&P</b> <br/> <i>IEEE Symposium on Security <br/> and Privacy</i></a>
             	</center>
 		</td>   
 		<td>
@@ -303,7 +303,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/NDSS.png" width="150" height="150">
 			<br/>
-			<a href="https://www.ndss-symposium.org/"><b>NDSS</b> <br/> <i>Network and Distributed System Security Symposium</i></a>
+			<a href="https://www.ndss-symposium.org/"><b>NDSS</b> <br/> <i>Network and Distributed System <br/> Security Symposium</i></a>
             	</center>
 		</td>   
 	</tr>
