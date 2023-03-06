@@ -245,9 +245,30 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 	<tr>
 		<td>
 		<center>
-    			<img text-align:center src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TDSC.png" width="250" height="100">
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TDSC.png" width="250" height="100">
 			<br/>
 			<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858"><b>TDSC</b> <br/> <i>IEEE Transactions on Dependable and Secure Computing</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TIFS.png" width="250" height="100">
+			<br/>
+			<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206"><b>TIFS</b> <br/> <i>IEEE Transactions on Information Forensics and Security</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TOSEM.png" width="250" height="100">
+			<br/>
+			<a href="https://dl.acm.org/journal/tosem"><b>TOSEM</b> <br/> <i>ACM Transactions on Software Engineering and Methodology</i></a>
+            	</center>
+		</td>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TSE.png" width="250" height="100">
+			<br/>
+			<a href="http://dblp.uni-trier.de/db/journals/tse/"><b>TSE</b> <br/> <i>IEEE Transactions on Software Engineering</i></a>
             	</center>
 		</td>
 	</tr>
