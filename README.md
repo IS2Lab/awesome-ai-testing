@@ -241,6 +241,13 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ## [Conferences and Journals](./files/conferences.md)
 
+//居中
+.aligncenter { 
+clear: both; 
+display: block; 
+margin:auto; 
+} 
+
 <table rules="none" align="center">
 	<tr>
 		<td>
