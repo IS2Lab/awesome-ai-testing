@@ -102,6 +102,8 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=5HoF_9oAAAAJ"><b>Shouling Ji</b> <br/> <i>ZJU, China</i></a>
             	</center>
 		</td>	
+	</tr>
+	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/shutaoxia.png" width="100" height="100">
@@ -109,8 +111,6 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=koAXTXgAAAAJ"><b>Shu-Tao Xia</b> <br/> <i>THU, China</i></a>
             	</center>
 		</td>
-	</tr>
-	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/Pin-YuChen.png" width="100" height="100">
@@ -146,6 +146,8 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=6v_R6WgAAAAJ"><b>Liehuang Zhu</b> <br/> <i>BIT, China</i></a>
             	</center>
 		</td>
+	</tr>
+	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/weimingzhang.png" width="100" height="100">
@@ -160,8 +162,6 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=16J3izoAAAAJ&view_op=list_works&sortby=pubdate"><b>Alina Oprea</b> <br/> <i>NEU, USA</i></a>
             	</center>
 		</td>	
-	</tr>
-	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/DuenHorngChau.png" width="100" height="100">
@@ -190,6 +190,8 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=oWT7fIYAAAAJ"><b>Somesh Jha</b> <br/> <i>Wisconsin, USA</i></a>
             	</center>
 		</td>
+	</tr>
+	<tr>
 		<td>
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/LorenzoCavallaro.png" width="100" height="100">
@@ -218,9 +220,6 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 			<a href="https://scholar.google.com/citations?hl=zh-CN&user=C7dO_UgAAAAJ"><b>Sijia Liu</b> <br/> <i>MSU, USA</i></a>
             	</center>
 		</td>
-	</tr>
-	<tr>
-	
 	</tr>
 </table>
 
