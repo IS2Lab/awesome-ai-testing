@@ -240,7 +240,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 ![more](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/more2.png)
 
 ## [Conferences and Journals](./files/conferences.md)
-### TOP Journal
+### TOP Journal 
 <table rules="none" align="center">
 	<tr>
 		<td>
@@ -276,7 +276,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ### TOP Conferences
 
-- **Information Securrity**  <br/> TDSC **|** TIFS **|** TOSEM **|** TSE
+- **Information Securrity**  <br/> CCS **|** S&P **|** USENIX **|** NDSS
   
 <table rules="none" align="center">
 	<tr>
@@ -311,7 +311,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 	</tr>
 </table>
 
-- **Software Engineering**
+- **Software Engineering** <br/> ICSE **|** ASE **|** ISSTA **|** FSE
 
 <table rules="none" align="center">
 	<tr>
