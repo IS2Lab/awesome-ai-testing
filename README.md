@@ -241,6 +241,18 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ## [Conferences and Journals](./files/conferences.md)
 
+<table rules="none" align="center">
+	<tr>
+		<td>
+		<center>
+    			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TDSC.png" width="100" height="200">
+			<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858"><b>TDSC</b> <br/> <i>IEEE Transactions on Dependable and Secure Computing</i></a>
+            	</center>
+		</td>
+	</tr>
+</table>
+
+
 - **Journals**
   * [**TDSC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) **|** [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) **|** [**TOSEM**](https://dl.acm.org/journal/tosem) **|** [**TSE**](http://dblp.uni-trier.de/db/journals/tse/)
 - **Conferences**   
