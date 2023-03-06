@@ -254,9 +254,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/TIFS.png" width="250" height="100">
 			<br/>
-			<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206"><b>TIFS</b> </a>
-			<br/> 
-			<front><i>IEEE Transactions on Information Forensics and Security</i></front>
+			<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206"><b>TIFS</b> <br/> <i>IEEE Transactions on Information Forensics and Security</i></a>
             	</center>
 		</td>
 		<td>
