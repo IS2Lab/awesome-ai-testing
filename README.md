@@ -333,7 +333,7 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 		<center>
     			<img src="https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/ISSTA.png" width="150" height="150">
 			<br/>
-			<a href="https://dl.acm.org/conference/issta"><b>ISSTA</b> <br/> <i>International Symposium on <br/> Software Testing and Analysis</i></a>
+			<a href="https://dl.acm.org/conference/issta"><b>ISSTA</b> <br/> <i>International Symposium <br/> on Software Testing <br/> and Analysis</i></a>
             	</center>
 		</td> 
 		<td>
