@@ -239,14 +239,14 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 
 ![more](https://github.com/IS2Lab/awesome-ai-testing/blob/main/picture/more2.png)
 
-### [✅ Conferences and Journals](./files/conferences.md)
+## [Conferences and Journals](./files/conferences.md)
 
 - **Journals**
   * [**TDSC**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) **|** [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) **|** [**TOSEM**](https://dl.acm.org/journal/tosem) **|** [**TSE**](http://dblp.uni-trier.de/db/journals/tse/)
 - **Conferences**   
   * [**CCS**](https://css2022.xidian.edu.cn/) **|** [**S&P**](https://www.ieee-security.org/TC/SP2022/) **|** [**USENIX**](https://www.usenix.org/) **|**  [**NDSS**](https://www.ndss-symposium.org/) **|** [**ASE**](https://www.aseglobal.com/) **|** [**ICSE**](http://www.icse-conferences.org/) **|**  [**ISSTA**](https://dl.acm.org/conference/issta) **|** [**AAAI**](https://aaai.org/) **|** [**CVPR**](https://cvpr2022.thecvf.com/) **|** [**IJCAI**](https://ijcai-23.org/)
  
-### [✅ Papers](./files/papers.md)  ***⚠️ Only the latest work here, please click the title for more.***
+## [Papers](./files/papers.md)  ***⚠️ Only the latest work here, please click the title for more.***
 
 #### [🌸 Survey](./files/papers.md) 
 
@@ -283,9 +283,6 @@ AI Testing refers to the process of evaluating and verifying the performance of 
 ###### [***Information and Software Technology 2023***] [*A probabilistic framework for mutation testing in deep neural networks.*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=A+probabilistic+framework+for+mutation+testing+in+deep+neural+networks.&btnG=)
 
 ###### [***Journal of Systems and Software 2023***] [*The language mutation problem: Leveraging language product lines for mutation testing of interpreters.*](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=The+language+mutation+problem%3A+Leveraging+language+product+lines+for+mutation+testing+of+interpreters.+&btnG=)
-
-    
-### [✅ License](./LICENSE)
 
 ## Latest updates
 
